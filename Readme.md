@@ -1,4 +1,4 @@
-# LENTERA Connect
+# Lentera Connect
 
 Repositori APK resmi aplikasi LENTERA Connect.
 
